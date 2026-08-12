@@ -11,10 +11,10 @@
 ### 🚀 About Me
 
 - 🎓 I'm currently a **student**, building my skills across programming, databases, and design tools
-- 💻 I enjoy working on projects that span **web development, systems, and databases**
-- 🌱 Currently sharpening my skills in full-stack development
+- 💻 I enjoy working on projects that span **web development, systems, api's, testing and databases**
+- 🌱 Currently sharpening my skills in full-stack development and testing 
 - 🤝 Open to collaborating on interesting student/open-source projects
-- 📫 Reach me via my GitHub profile
+- 📫 Reach me via my GitHub profile or mail me on nayabmaryam40@gmail.com
 
 ---
 
