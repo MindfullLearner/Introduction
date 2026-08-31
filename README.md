@@ -76,4 +76,4 @@
   </a>
 </p>
 
-<p align="center"><i>Thanks for stopping by — always learning, always building! 🚀</i></p>
+<p align="center"><i>Thanks for stopping by — always learning, always building! Stay tunned to see me updated🚀</i></p>
